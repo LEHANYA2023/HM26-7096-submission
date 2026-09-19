@@ -1,7 +1,6 @@
 // Auto-detects environment: use localhost for local dev, and the deployed
-// backend URL everywhere else (Netlify, etc.). Replace the placeholder below
-// with your real Render URL once Step 2's deployment is live.
-const PRODUCTION_API_BASE = "https://civicmysuru-backend.onrender.com"; // <-- REPLACE with your real Render URL
+// backend URL everywhere else.
+const PRODUCTION_API_BASE = "https://civicmysuru-backend.onrender.com";
 const IS_LOCAL = ["localhost", "127.0.0.1"].includes(location.hostname);
 const API_BASE = IS_LOCAL ? "http://127.0.0.1:8000" : PRODUCTION_API_BASE;
 
