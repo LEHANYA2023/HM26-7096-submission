@@ -1,20 +1,28 @@
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.pytest_cache/
-.venv/
+# Dependencies
+node_modules/
 venv/
+__pycache__/
+*.pyc
+
+# Env & secrets
 .env
+.env.local
+*.pem
 
-# VS Code
-.vscode/
+# Build output
+dist/
+build/
+.next/
+out/
 
-# OS
+# OS/IDE
 .DS_Store
-Thumbs.db
+.vscode/
+.idea/
 
-# Runtime artifacts
-*.db
-*.sqlite3
+# Do NOT commit heavy artifacts — upload to Google Drive and link in resource.md instead
+*.mp4
+*.mov
+*_video.mp4
+*_decision-log.pdf
+*_presentation.pdf
