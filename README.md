@@ -85,10 +85,10 @@ git clone https://github.com/LEHANYA2023/HM26-7096-submission.git
 
 | Name | Role | GitHub |
 |---|---|---|
-| ADITYA JEEVAN NAIK (Lead) | DEPLOYEMENT  | NaikAdityaJeevan|
+| ADITYA JEEVAN NAIK (Lead) | DEPLOYEMENT/Research Support  | NaikAdityaJeevan|
 | R V LEHANYA | BACKEND  | LEHANYA2023 |
 | RANA BISWAS | FRONTEND  | ranabiswas30042005@gmail.com |
-| H S AMRUTHA | DATABASE ,RESEARCH | amruthahs19@gmail.com |
+| H S AMRUTHA | DATABASE  | amruthahs19@gmail.com |
 
 ## License
 
