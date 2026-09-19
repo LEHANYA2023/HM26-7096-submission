@@ -12,9 +12,9 @@
 |---|---|
 | Team ID (from dashboard) | `HM26-7096` |
 | Team Name | `ZENITH` |
-| College(s) | `<college name(s)>` |
-| Team Leader | `<name>` · `<email>` · `<phone>` |
-| Repository | `https://github.com/LEHANYA2023/civicmysuru-hackathon-2026` |
+| College(s) | MVJ COLLEGE OF ENGINEERING |
+| Team Leader | ADITYA JEEVAN NAIK,8722787848,naikaj1814@gmail.com |
+| Repository | `` |
 
 | # | Member | Program & Year | GitHub Handle | Primary Role |
 |---|---|---|---|---|
