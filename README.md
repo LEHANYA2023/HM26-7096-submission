@@ -65,7 +65,7 @@ Citizen-facing app → routing API → versioned boundary + rules store, with an
 ## 7. Setup & Run
 
 ```bash
-git clone https://github.com/LEHANYA2023/civicmysuru-hackathon-2026.git && cd civicmysuru-hackathon-2026
+git clone https://github.com/LEHANYA2023/HM26-7096-submission.git
 # fill in: one-line install && one-line run
 ```
 
