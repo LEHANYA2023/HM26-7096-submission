@@ -2,7 +2,7 @@
 
 ## 1. One-line summary
 
-`<e.g. "Offline-first PWA → REST API → routing engine backed by a versioned PostGIS boundary registry.">`
+Static citizen/staff web pages → FastAPI REST backend → a routing engine backed by a date-versioned jurisdiction table keyed by area name, not geographic polygons.
 
 ## 2. Diagram
 
@@ -54,4 +54,8 @@ Every boundary polygon carries an `effective_from` date. The routing engine alwa
 
 ## 7. Tech stack
 
-`<Fill in — frontend, backend, database, hosting, and why each was chosen given the 72-hour build window>`
+Layer	Choice	Why
+Frontend	Static HTML/CSS/JS, no framework, no build step	Zero tooling setup — direct trade-off against offline/PWA capability, which the time budget didn't allow
+Backend	FastAPI + Pydantic	Free automatic /docs UI, which doubled as the live demo interface for the jurisdiction-change "twist"
+Database	SQLite via SQLAlchemy	Zero setup, no separate DB server to provision in a 72-hour window — explicitly flagged in the decision log as the first thing to swap for Postgres at real scale
+Hosting	Backend: Railway/Render (Python web service). Frontend: Vercel/Netlify (static)	Both have config-free or near-config-free deploys for exactly these two project shapes, on free tiers
