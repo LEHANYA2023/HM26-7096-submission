@@ -85,10 +85,10 @@ git clone https://github.com/LEHANYA2023/civicmysuru-hackathon-2026.git && cd ci
 
 | Name | Role | GitHub |
 |---|---|---|
-| `<name>` (Lead) | `<role>` | `@<handle>` |
-| `<name>` | `<role>` | `@<handle>` |
-| `<name>` | `<role>` | `@<handle>` |
-| `<name>` | `<role>` | `@<handle>` |
+| ADITYA JEEVAN NAIK (Lead) | DEPLOYEMENT  | naikaj1814@gmail.com |
+| R V LEHANYA | BACKEND  | rvlehanya@gmail.com |
+| RANA BISWAS | FRONTEND  | ranabiswas30042005@gmail.com |
+| H S AMRUTHA | DATABASE ,RESEARCH | amruthahs19@gmail.com |
 
 ## License
 
