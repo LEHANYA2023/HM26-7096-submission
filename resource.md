@@ -14,14 +14,14 @@
 | Team Name | `ZENITH` |
 | College(s) | MVJ COLLEGE OF ENGINEERING |
 | Team Leader | ADITYA JEEVAN NAIK,8722787848,naikaj1814@gmail.com |
-| Repository | `` |
+| Repository | `https://github.com/LEHANYA2023/HM26-7096-submission.git` |
 
 | # | Member | Program & Year | GitHub Handle | Primary Role |
 |---|---|---|---|---|
-| 1 | `<name>` (Lead) | `<e.g. B.E. CSE, 3rd yr>` | `@<handle>` | `<backend / ML / frontend / ...>` |
-| 2 | `<name>` | `<...>` | `@<handle>` | `<...>` |
-| 3 | `<name>` | `<...>` | `@<handle>` | `<...>` |
-| 4 | `<name>` | `<...>` | `@<handle>` | `<...>` |
+| 1 | `ADITYA JEEVAN NAIK` (Lead) | `BE ,4th Year ,EC-ACT` | `NaikAdityaJeevan` | `Deployement/Research Support` |
+| 2 |'R V LEHANYA` | 'BE,4th Year,CSE` | `LEHANYA2023` | `BACKEND developer ` |
+| 3 | `RANA BISWAS` | `BE ,4th Year,CSE` | `@<handle>` | `UI/UX Developer` |
+| 4 | `H S AMRUTHA` | `BE,4th Year,ECE` | `@<handle>` | `Tester` |
 
 ---
 
@@ -49,11 +49,11 @@
 
 ## 4. Submission Artifacts (Google Drive)
 
-| # | Artifact | Google Drive Link | File Name | SHA-256 (first 16 chars) |
+| # | Artifact | Google Drive Link | File Name | 
 |---|---|---|---|---|
-| 1 | Pitch + Code Walkthrough Video (≤ 10 min, MP4) | `<https://drive.google.com/file/d/.../view>` | `HM26-7096_video.mp4` | `<...>` |
-| 2 | Decision Log (1 page, PDF) | `<https://drive.google.com/file/d/.../view>` | `HM26-7096_decision-log.pdf` | `<...>` |
-| 3 | Presentation (≤ 10 slides, PDF) | `<https://drive.google.com/file/d/.../view>` | `HM26-7096_presentation.pdf` | `<...>` |
+| 1 | Pitch + Code Walkthrough Video (≤ 10 min, MP4) | `<https://drive.google.com/file/d/.../view>` | `HM26-7096_video.mp4` | 
+| 2 | Decision Log (1 page, PDF) | `https://drive.google.com/file/d/1renGdTb0-WHvwGdiREkg2Q-lbIvVe7sy/view?usp=sharing` | `HM26-7096_decision-log.pdf` | 
+| 3 | Presentation (≤ 10 slides, PDF) | `https://drive.google.com/file/d/1x0p9EBQFscnfKN5Ls2GQrdrAe28NClPA/view?usp=sharing` | `HM26-7096_presentation.pdf` |
 
 ### Video Chapters
 
@@ -77,10 +77,10 @@
 
 | Field | Value |
 |---|---|
-| Live URL | `<https://...>` |
-| Platform | `<Web / PWA / Android APK link on Drive / ...>` |
-| Test login (if any) | Citizen: `<user / pass>` · Staff: `<user / pass>` · Admin: `<user / pass>` |
-| Sample data loaded? | `<e.g. Yes — N synthetic complaints across N wards, including 2 boundary-edge cases>` |
+| Live URL | `https://civicmysuru-hackathon-4td3zj67f-naikaj1814-4974s-projects.vercel.app` |
+| Platform | `Vercel.app` |
+| Test login (if any) | Citizen: `<R V LEHANYA,123456> |
+| Sample data loaded? | `Yes — 45 synthetic complaints across 8 wards, including 2 boundary-edge cases (complaint on ward border, complaint with missing GPS` |
 | How to test offline mode | `<one line>`. Full steps in [docs/setup.md](./docs/setup.md#testing-offline-mode) |
 | If the live link is down | Follow [docs/setup.md](./docs/setup.md) |
 
@@ -105,4 +105,4 @@
 - [ ] No code specific to this challenge was written before 18 Sept 2026, 00:00 IST.
 - [ ] We will not modify or replace any linked file after 20 Sept 2026, 23:59 IST.
 
-**Submitted by:** `<Team Leader name>` · **Date/Time (IST):** `<20-09-2026 HH:MM>`
+**Submitted by:** `ADITYA JEEVAN NAIK` · **Date/Time (IST):** `<20-09-2026 HH:MM>`
