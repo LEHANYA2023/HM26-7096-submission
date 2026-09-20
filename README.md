@@ -1,4 +1,4 @@
-# CivicRoute Mysuru — auto-routing civic complaints as jurisdictions shift
+CivicRoute Mysuru — auto-routing civic complaints as jurisdictions shift
 
 > HackMysuru 1.0 · Phase 1 · Civic Governance & Clean Mysuru
 > Team **ZENITH** (`HM26-7096`)
