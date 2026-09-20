@@ -46,8 +46,8 @@
 | # | Artifact | Google Drive Link | File Name | 
 |---|---|---|---|---|
 | 1 | Pitch + Code Walkthrough Video (≤ 10 min, MP4) | https://drive.google.com/file/d/1fXjTyMB8Q7Y2DyVEuBtJ3YeCYo84IVW0/view?usp=drive_link | `HM26-7096_video.mp4` | 
-| 2 | Decision Log (1 page, PDF) | `https://drive.google.com/file/d/1renGdTb0-WHvwGdiREkg2Q-lbIvVe7sy/view?usp=sharing` | `HM26-7096_decision-log.pdf` | 
-| 3 | Presentation (≤ 10 slides, PDF) | `https://drive.google.com/file/d/1x0p9EBQFscnfKN5Ls2GQrdrAe28NClPA/view?usp=sharing` | `HM26-7096_presentation.pdf` |
+| 2 | Decision Log (1 page, PDF) | https://drive.google.com/file/d/1renGdTb0-WHvwGdiREkg2Q-lbIvVe7sy/view?usp=sharing | `HM26-7096_decision-log.pdf` | 
+| 3 | Presentation (≤ 10 slides, PDF) | https://drive.google.com/file/d/1x0p9EBQFscnfKN5Ls2GQrdrAe28NClPA/view?usp=sharing | `HM26-7096_presentation.pdf` |
 
 ### Video Chapters
 
