@@ -1,11 +1,5 @@
 # HackMysuru 1.0 — Phase 1 Submission Index
 
-> **This is the landing file for your submission.** Reviewers open this file first.
-> Every evaluation artifact is uploaded to **Google Drive** and linked below. No files in the repo, no other platforms.
-> Freeze: **20 September 2026, 23:59 IST.** Anything not linked here before the freeze does not exist for judging.
-
----
-
 ## 1. Team Details
 
 | Field | Value |
@@ -105,4 +99,4 @@
 - [ ] No code specific to this challenge was written before 18 Sept 2026, 00:00 IST.
 - [ ] We will not modify or replace any linked file after 20 Sept 2026, 23:59 IST.
 
-**Submitted by:** `ADITYA JEEVAN NAIK` · **Date/Time (IST):** `<20-09-2026 11:00>`
+**Submitted by:** `ADITYA JEEVAN NAIK` · **Date/Time (IST):** `<20-09-2026 12:00>`
