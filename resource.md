@@ -14,7 +14,7 @@
 |---|---|---|---|---|
 | 1 | `ADITYA JEEVAN NAIK` (Lead) | `BE ,4th Year ,EC-ACT` | `NaikAdityaJeevan` | `Deployement/Research Support` |
 | 2 |'R V LEHANYA` | 'BE,4th Year,CSE` | `LEHANYA2023` | `BACKEND developer ` |
-| 3 | `RANA BISWAS` | `BE ,4th Year,CSE` | 'Akash_hunter' | `UI/UX Developer` |
+| 3 | `RANA BISWAS` | `BE ,4th Year,CSE` | 'Akash-hunter' | `UI/UX Developer` |
 | 4 | `H S AMRUTHA` | `BE,4th Year,ECE` | hsamrutha19-bit | `Tester` |
 
 ---
